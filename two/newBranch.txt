@@ -1,2 +1,3 @@
 hello there learning git merge
+hey i am fine how about you
 hello there how are u
